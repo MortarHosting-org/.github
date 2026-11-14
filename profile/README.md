@@ -1,13 +1,20 @@
-# SantosHosting.net
+<div align="center">
 
-Official GitHub organization for SantosHosting.net.
+# MortarHosting
 
-We use this organization to maintain deployment configurations, runtime templates, and other infrastructure resources used across our hosting platform.
+**Developer & Infrastructure Hosting**
 
----
+Code, Discord bots, FiveM voice and radio, databases.
 
-Repositories maintained here may be used in production environments.
+[Website](https://mortarhosting.org) · [Support](https://client.mortarhosting.org)
 
-If you deploy supported services with SantosHosting, these resources may be part of the infrastructure that powers your instances.
+</div>
 
-For support or questions, please use our official support channels.
+## Services
+
+- Code hosting: Node.js, Python, Rust
+- Discord bot hosting
+- FiveM voice (Zumble) and radio (WhackerLink)
+- Databases: MariaDB, Redis, MongoDB, PostgreSQL
+
+Built on Calagopus and FOSSBilling.
